@@ -13,7 +13,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Mac",
 		"Windows"
 	]
 }
